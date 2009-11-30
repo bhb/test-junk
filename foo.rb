@@ -6,4 +6,8 @@ class X
    i
   end   
 
+  def z(value)
+    value * value
+  end  
+
 end
