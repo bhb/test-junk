@@ -8,6 +8,10 @@ class X
 
   def z(value)
     value * value
-  end  
+  end
+
+  def zz
+    "zz"
+  end
 
 end
