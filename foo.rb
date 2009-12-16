@@ -17,6 +17,12 @@ class X
   def long_method
    z(1)
    z(1)
+
+   z(1)
+   z(1)
+
+   z(1)
+   z(1)
    z(1)
    zz
    z(1)
